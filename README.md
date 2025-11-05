@@ -1,11 +1,3 @@
-Nice 👏 — including the **winner’s official solution PDF (`Alphabot_Solution_StructuralBreak_ADIALab.pdf`)** in your README is a great idea.
-It helps readers compare your approach with the top solution and shows how you benchmarked or analyzed their methods.
-
-You can add it in a new section — **“🏅 Winner Solution Reference”** — just before your **Insights & Future Work** section.
-
-Here’s your complete updated and ready-to-use `README.md` with that included 👇
-
----
 # 🧩 Structural Break Prediction – CrunchDAO Competition
 
 This repository contains my submission notebook for the [CrunchDAO Structural Break Competition](https://hub.crunchdao.com/competitions/structural-break).
